@@ -10,5 +10,5 @@ Change your desired port number ebook and audiobook mountpoints.
 docker-compose build --no-cache
 docker-compose up -d
 
-Access your web based gui at http://yourip:yourip
+Access your web based gui at http://yourip:port
 
